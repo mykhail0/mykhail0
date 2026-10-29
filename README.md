@@ -4,7 +4,7 @@ Studying maths as an undergrad at the University of Warsaw on the side.
 Not all my projects are on GH but here are some notable, grouped by language usage:
 
 - C:
-  - [gamme](https://github.com/mykhail0/gamma) - a go-like game to be played in the terminal by variable number of players
+  - [gamma](https://github.com/mykhail0/gamma) - a go-like game to be played in the terminal by variable number of players
   - [actor model](https://github.com/mykhail0/Cacti) - concurrent actor model implementation
   - [joystick](https://github.com/mykhail0/bluetooth-joystick) - bluetooth joystick software for STM microcontroller
 - C++:
