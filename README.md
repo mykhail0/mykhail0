@@ -29,5 +29,4 @@ Not all my projects are on GH but here are some, grouped by language usage:
 
 The public repositories are mostly coursework projects from CS undergrad and Master's track concerning software engineering.
 I've taken a lot of AI/ML courses in the Master's program but most of the coursework was done on Google Colab, so I won't be posting that here.
-It's a work in progress since these are not all of my projects and some repositories need additional refactoring and more documentation or better/translated READMEs
-(in particular, my Rust projects are missing). None of them are AI generated, for learning purposes.
+It's a work in progress since these are not all of my projects and some repositories need additional refactoring and more documentation or better/translated READMEs. None of them are AI generated, for learning purposes.
