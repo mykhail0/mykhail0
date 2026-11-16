@@ -1,7 +1,7 @@
 Hi, I'm a Computer Science graduate at the University of Warsaw, currently looking for work and working on Master's thesis in game solving.
 Studying maths as an undergrad at the University of Warsaw on the side.
 
-Not all my projects are on GH but here are some notable, grouped by language usage:
+Not all my projects are on GH but here are some, grouped by language usage:
 
 - C:
   - [gamma](https://github.com/mykhail0/gamma) - a go-like game to be played in the terminal by variable number of players
@@ -10,6 +10,8 @@ Not all my projects are on GH but here are some notable, grouped by language usa
 - C++:
   - [robaki](https://github.com/mykhail0/robaki) - multiplayer networking [Achtung, die Kurve!](https://en.wikipedia.org/wiki/Achtung,_die_Kurve!)-like game with no external library usage
   - [http](https://github.com/mykhail0/HTTP-server) - 1-1 server to client HTTP/1.1 server
+- Rust:
+  - [module system](https://github.com/mykhail0/module-system) - concurrent module system similar to an actor model, where modules can schedule and exchange messages, implemented asynchronously
 - x86-64 assembly:
   - [concurrent calculator](https://github.com/mykhail0/notec)
   - [diakrytynizator](https://github.com/mykhail0/diakrytynizator) - UTF-8 text processing
